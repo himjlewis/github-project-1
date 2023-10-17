@@ -1,7 +1,8 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: 10/17/2023
+- Facilitator: M.K.
+- James Lewis
 
 ## Class Resources
 
